@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repo](https://github.com/Maksym-Paselsky/news-homepage-main)
+- Live Site URL: [Live URl](https://maksym-paselsky.github.io/news-homepage-main/)
 
 ## My process
 
